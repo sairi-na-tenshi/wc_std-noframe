@@ -1,9 +1,0 @@
-.i-noframe-loader {
-	display: block;
-	width: 100%;
-	height: 100%;
-}
-
-i\:noframe.loaded\=true .i-noframe-loader {
-	height: 0px;
-}
